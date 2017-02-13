@@ -7,8 +7,6 @@ var Record = function(artist, title, price){
     return this.title;
   }
 
-
-
 };
 
 
